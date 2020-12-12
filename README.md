@@ -1,16 +1,14 @@
 # Top-level
 ## second-level
 ### is this markdown? Yes!  
-#### check this out:  https://www.markdownguide.org/basic-syntax/
 
-##### 5
-###### 6 
-####### 7
+[Markdown Guide] (https://www.markdownguide.org/basic-syntax/)
 
 <p>
-  <b>Will this allow the use of HTML tags?</b>
+  <b>Will this allow the use of HTML tags?</b> <br>
   <i>Let's see...</i>
 </p>
 
+![Philadelphia's Magic Gardens](https://media.phillyvoice.com/media/images/Screen_Shot_2017-12-11_at_2.58.38_.2e16d0ba.fill-735x490.png "Philadelphia's Magic Gardens")
 
-What's up with that?
+It's *also* possible to use the markdown-punctuation.
